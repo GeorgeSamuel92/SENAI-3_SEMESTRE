@@ -1,0 +1,5 @@
+# dependecies
+node_modules/
+.o, .pyc, *.class
+.tmp, .lock
+.idea/workspace.xml
